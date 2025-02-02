@@ -8,7 +8,7 @@ The solutions to all the three questions can be found in the Jupyter Notebook na
 
 Under [Solution](Solution) folder:
 
-- [Solutions_Take_Home_Exercise.ipynb](Soution/Solutions_Take_Home_Exercise.ipynb). This is main notebook that includes all code and queries, as well as in-line text summaries of findings and the email to the stakeholders.
+- [Solutions_Take_Home_Exercise.ipynb](Solution/Solutions_Take_Home_Exercise.ipynb). This is main notebook that includes all code and queries, as well as in-line text summaries of findings and the email to the stakeholders.
 
 - [Email.md](Solution/Email.md). A separate file for the email to stakeholders.
 
