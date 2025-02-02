@@ -1,4 +1,4 @@
-# Fetch-Data-Analyst-Take-Home-Exercise
+# Fetch Data Analyst Take Home Exercise
 This repository includes the solutions to the Data Analyst Take Home Exercise.
 
 ## Instructions
